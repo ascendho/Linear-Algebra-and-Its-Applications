@@ -313,7 +313,7 @@ $b.A(c\boldsymbol u)=c(A\boldsymbol u)$
 `齐次线性方程组：`
 
 > - 如果一个线性方程组能够写成$A\boldsymbol x=\boldsymbol 0$的形式，其中$A$是一个$m\times n$的矩阵，$\boldsymbol 0$是$R^m$中的零向量，那么我们说该方程组是**齐次**的
-> - 这类方程组至少有一个解，即$\boldsymbol x=\boldsymbol 0$($R^n$中的零向量)，成为**平凡解**
+> - 这类方程组至少有一个解，即$\boldsymbol x=\boldsymbol 0$($R^n$中的零向量)，称为**平凡解**
 > - 事实：当且仅当齐次线性方程组至少有一个自由变量时，才有**非平凡解**
 
 
