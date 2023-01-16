@@ -372,6 +372,67 @@ $b.A(c\boldsymbol u)=c(A\boldsymbol u)$
 
 # 1.6、线性方程组的应用
 
+## 1.经济学中的齐次方程组
+
+![image-20230116161131049](img/image-20230116161131049.png)
+
+
+
+$$
+p_c=.4p_E+.6p_s\\p_E=.6p_c+.1p_E+.2p_s\\p_s=.4p_c+.5p_E+.2p_s
+$$
+
+
+## 2.配平化学方程式
+
+$$
+(x_1)C_3H_8+(x_2)O_2-->(x_3)CO_2+(x_4)H_2O
+$$
+
+以碳(C)氢(H)氧(O)的顺序给每个反应物和生成物排序：
+$$
+C_3H_8:\left[\begin{array}{l}
+3 \\
+8 \\
+0
+\end{array}\right], \; O_2:\left[\begin{array}{l}
+0 \\
+0 \\
+2
+\end{array}\right],\; CO_2: \left[\begin{array}{l}
+1 \\
+0 \\
+2
+\end{array}\right],\; H_2O:\left[\begin{array}{l}
+0 \\
+2 \\
+1
+\end{array}\right]
+$$
+
+
+## 3.网络流
+
+![image-20230116161953251](img/image-20230116161953251.png)
+
+
+
+| Intersection |     Flow in     |   Flow out    |
+| :----------: | :-------------: | :-----------: |
+|      A       |     300+500     |   $x_1+x_2$   |
+|      B       |    $x_2+x_4$    |   300+$x_3$   |
+|      B       |     100+400     |   $x_4+x_5$   |
+|      D       |    $x_1+x_5$    |      600      |
+|   **All**    | 500+300+100+400 | 300+$x_3$+600 |
+
+
+
+# 1.7、线性无关
+
+
+
+
+
 
 
 
