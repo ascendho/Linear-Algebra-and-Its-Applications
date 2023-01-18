@@ -4,11 +4,13 @@ typora-copy-images-to: ./img
 
 # Linear-Algebra-and-Its-Applications
 
+English ｜ [中文(简体)](README-zh-CN.md)
+
 ## 1.Inroduction
 
 This repo is for Linear Algebra and Its Application textbook.
 
-textbook site: [here](https://wps.pearsoned.com/aw_lay_linearalgebra_5/)
+textbook resource site: [here](https://wps.pearsoned.com/aw_lay_linearalgebra_5/)
 
 English version:
 
@@ -42,4 +44,11 @@ Chinese version:
 
 ## 3.personal notes
 
-You can fine my notes [here](https://ascendho.github.io/Linear-Algebra-and-Its-Applications/)(In Chinese), continue updating...
+You can fine my notes [here](https://ascendho.github.io/Linear-Algebra-and-Its-Applications/) (In Chinese), continue updating...
+
+
+
+## 4.waiting to build
+
+**Review Sheets** and **Practice Exams**
+
