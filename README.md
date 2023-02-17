@@ -6,25 +6,22 @@ typora-copy-images-to: ./img
 
 English ｜ [中文(简体)](README-zh-CN.md)
 
-## 1.Inroduction
+## Introduction
 
-This repo is for Linear Algebra and Its Application textbook.
+This repo is for Linear Algebra and Its Application textbook
 
 textbook resource site: [here](https://wps.pearsoned.com/aw_lay_linearalgebra_5/)
 
-English version:
+English version and Chinese version are as follows:
 
-![image-20230118132720852](img/image-20230118132720852.png)
-
-
-
-Chinese version:
-
-![image-20230118132203188](img/image-20230118132203188.png)
+<center class="half">
+    <img src="img/image-20230118132720852.png" width="300"/>&nbsp;&nbsp;&nbsp;
+    <img src="img/image-20230118132203188.png" width="300"/>
+</center>
 
 
 
-## 2.Instruction
+## Folder Clarification
 
 **LayData5_toolbox:** Contains data for about 900 numerical exercises in the text, Case Studies, and Application projects.(MTLAB program)
 
@@ -42,13 +39,20 @@ Chinese version:
 
 
 
-## 3.personal notes
+## Personal Notes
 
 You can fine my notes [here](https://ascendho.github.io/Linear-Algebra-and-Its-Applications/) (In Chinese), continue updating...
 
 
 
-## 4.waiting to build
+## Waiting to Build
 
 **Review Sheets** and **Practice Exams**
 
+
+
+## LICENSE
+
+- This repo is under <a href="https://github.com/ascendho/The-Economist-Sharing/blob/master/LICENSE">MIT LICENSE</a>
+- For any materials involved in this repo, if you feel you have been infringed, please just [email](mailto:ascendho@outlook.com) me
+- The articles and audios are just for self-reading and learning, commercial activities are **forbidden**
