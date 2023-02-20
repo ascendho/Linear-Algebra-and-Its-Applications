@@ -4,25 +4,24 @@ typora-copy-images-to: ./img
 
 [English](README.md) ｜ 中文(简体)
 
-## 1.介绍
+## 介绍
 
 该仓库对应于《线性代数及其应用》(第五版)
 
 教材资源网址：[here](https://wps.pearsoned.com/aw_lay_linearalgebra_5/)
 
-英文版：
-
-![image-20230118132720852](img/image-20230118132720852.png)
+英文版和中文版如下所示：
 
 
 
-中文版：
+<center class="half">
+    <img src="img/image-20230118132720852.png" width="300"/>&nbsp;&nbsp;&nbsp;
+    <img src="img/image-20230118132203188.png" width="300"/>
+</center>
 
-![image-20230118132203188](img/image-20230118132203188.png)
 
 
-
-## 2.说明
+## 说明
 
 **LayData5_toolbox：** 包含练习题、案例研究、应用、项目等所有需要用到的源程序(MATLAB)
 
@@ -40,13 +39,13 @@ typora-copy-images-to: ./img
 
 
 
-## 3.个人笔记
+## 个人笔记
 
 笔记在[这里](https://ascendho.github.io/Linear-Algebra-and-Its-Applications/)，持续更新中...
 
 
 
-## 4.待开发的
+## 待开发的
 
 **Review Sheets** 和 **Practice Exams**
 
