@@ -41,7 +41,7 @@ typora-copy-images-to: ./img
 
 ## 个人笔记
 
-笔记在[这里](https://ascendho.github.io/Linear-Algebra-and-Its-Applications/)，持续更新中...
+笔记在[这里](https://notesoflla.netlify.app/)，持续更新中...
 
 
 

@@ -35,7 +35,7 @@ textbook resource site: [here](https://wps.pearsoned.com/aw_lay_linearalgebra_5/
 
 ## Personal Notes
 
-You can fine my notes [here](https://ascendho.github.io/Linear-Algebra-and-Its-Applications/) (In Chinese), continue updating...
+You can fine my notes [here](https://notesoflla.netlify.app/) (In Chinese), continue updating...
 
 
 
@@ -49,7 +49,7 @@ You can fine my notes [here](https://ascendho.github.io/Linear-Algebra-and-Its-A
 
 Before you participate in this repo, please read the following rules first:
 
-- The **Notes** is under <a href="https://github.com/ascendho/The-Economist-Sharing/blob/master/LICENSE">MIT LICENSE</a>
+- The **Notes** is under <a href="https://github.com/ascendho/Linear-Algebra-and-Its-Applications/blob/master/LICENSE">MIT LICENSE</a>
 - For any materials involved in this repo, if you feel you have been infringed, please just [email](mailto:ascendho@outlook.com) me
 - Just for self-learning, commercial activities are **forbidden**
 
