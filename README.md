@@ -6,6 +6,12 @@ typora-copy-images-to: ./img
 
 English ｜ [中文(简体)](README-zh-CN.md)
 
+## 📣News
+
+I have deployed Notes on <a href="https://www.netlify.com/">Netlifly</a>, another great free page-hosted service, cause there maybe some problems for domesitic users to get access to Github
+
+
+
 ## Introduction
 
 This repo is for Linear Algebra and Its Application textbook
