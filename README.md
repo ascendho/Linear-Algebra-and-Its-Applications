@@ -8,7 +8,11 @@ English ｜ [中文(简体)](README-zh-CN.md)
 
 ## 📣News
 
-I have deployed Notes on <a href="https://www.netlify.com/">Netlifly</a>, another great free page-hosted service, cause there maybe some problems for domesitic users to get access to Github
+I have deployed Notes on <a href="https://www.netlify.com/">Netlify</a>, another great free page-hosted service, cause there maybe some problems for domesitic users to get access to Github
+
+**Netlify:** <a href="https://notesoflla.netlify.app/">noteoflla</a>
+
+**GitHub Pages:** <a href="https://ascendho.github.io/Linear-Algebra-and-Its-Applications/">Notes</a>
 
 
 
