@@ -8,8 +8,6 @@ typora-copy-images-to: ./img
 
 该仓库对应于《线性代数及其应用》(第五版)
 
-教材资源网址：[here](https://wps.pearsoned.com/aw_lay_linearalgebra_5/)
-
 英文版和中文版如下所示：
 
 
